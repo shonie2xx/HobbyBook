@@ -38,7 +38,7 @@ My inspiration of doing a tinder clone is that I found the complexivity very int
 
 ### Project assignment:
 * Authorization, authentication
-* > 2 kind of user roles. ADMIN/USER.
+* >2 kind of user roles. ADMIN/USER.
 * CRUD operations.
 
 
