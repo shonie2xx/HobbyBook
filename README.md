@@ -74,7 +74,7 @@ Distributed by me.
 ## Contact
 Aleksandar Lekov
 * [LinkedIn](https://www.linkedin.com/in/aleksandar-lekov-76419218b/) 
-* [Gmail](aleksandarlekov11@gmail.com)
+* Gmail - aleksandarlekov11@gmail.com
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
