@@ -9,21 +9,13 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#project-assignment">Project assignment</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#tools-used">Tools used</a>
-      <ul>
-        <li><a href="#design-document">Design document</a></li>
-      </ul>
-    </li>t
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#about-the-project">About The Project</a> </li>
+    <li><a href="#project-assignment">Project assignment</a></li>
+    <li><a href="#tools-used">Tools used</a> </li>
+    <li><a href="#design-document">Design document</a></li>
+    <li><a href="#testing-strategy">Testing strategy</a></li>
+    <li><a href="#process-of-work">Process of work</a></li>
+    <li><a href="#app-journey">App journey</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -36,7 +28,7 @@
 I did a tinder-clone for my first full-stack web application. I am not actual constant user of dating websites but the idea behind it, how it brings together is great. The application is based on common interests between people and the possibility for them to match between each other.
 My inspiration of doing a tinder clone is that I found the complexivity very interesting and suitable for the project assignment given from Fontys University. 
 
-### Project assignment:
+### Project assignment
 * Authorization, authentication
 * 2 kind of user roles. ADMIN/USER.
 * CRUD operations.
