@@ -33,7 +33,7 @@ My inspiration of doing a tinder clone is that I found the complexivity very int
 
 ### Tools used
 
-* Spring Boot(https://spring.io/projects/spring-boot)
+* Spring Boot (https://spring.io/projects/spring-boot)
 * MySql(https://www.mysql.com/)
 * JSON Web Token(https://jwt.io/introduction)
 
