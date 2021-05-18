@@ -33,26 +33,26 @@ My inspiration of doing a tinder clone is that I found the complexivity very int
 
 ### Tools used
 
-* Spring Boot[https://spring.io/projects/spring-boot]
-* MySql(https://www.mysql.com/)
-* JSON Web Token(https://jwt.io/introduction)
+* Spring Boot
+* MySql
+* JSON Web Token
 
 
 #### Design document
 * APA style
-* C4 Architeture(https://c4model.com/)
+* C4 Architeture
 
 
 ### Testing strategy
 
-* Integration tests(https://spring.io/guides/gs/testing-web/)
+* Integration tests
 * Unit tests
 * CI/CD pipelines
 * Sonarqube
 
 ### Process of work
 I have worked in sprints. Scrum.
-* Jira(https://www.atlassian.com/software/jira)
+* Jira
 
 
 <!-- USAGE EXAMPLES -->
@@ -72,9 +72,9 @@ Distributed by me.
 
 <!-- CONTACT -->
 ## Contact
-
-Aleksandar Lekov - LinkedIn(https://www.linkedin.com/in/aleksandar-lekov-76419218b/) 
-
+Aleksandar Lekov
+* [LinkedIn](https://www.linkedin.com/in/aleksandar-lekov-76419218b/) 
+* [Gmail](aleksandarlekov11@gmail.com)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
