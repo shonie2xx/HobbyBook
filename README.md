@@ -63,6 +63,10 @@ My inspiration of doing a tinder clone is that I found the complexivity very int
 * Profile page
 * If admin is logged in he has rights to CRUD users.
 
+## Highlights
+When two user 'like' they match with each other. Return the users you match with ->
+
+https://github.com/shonie2xx/hobbybook-backend/blob/616670ac90d49b7a2dfc88b2c7ff1fd9cf5e8baa/src/main/java/fontys/its3/hobbybook/repositories/MatchRepository.java#L13-L20
 
 <!-- LICENSE -->
 ## License
